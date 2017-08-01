@@ -14,6 +14,7 @@ A self-directed JavaScript learning curriculum. (With a sprinkle of other front-
 - Angular (Front-End MVW Framework)
 - Ember (Front-End MVC Framework)
 - Node.js (Back-End/Server-Side Framework)
+- CoffeeScript (Subset language of JavaScript)
 
 <!-- ## Tools -->
 <!-- ## Techniques -->
