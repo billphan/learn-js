@@ -46,9 +46,6 @@ A self-directed JavaScript learning curriculum. (With a sprinkle of other front-
 - [CodePen](https://codepen.io)
 - [JSFiddle](https://jsfiddle.net/)
 
-#### Miscellaneous
-- [MDN: SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)
-
 #### Exercises & Problem Solving
 - [Codewars](https://www.codewars.com/)
 - [Exercism](http://exercism.io/languages/javascript/exercises)
