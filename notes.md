@@ -10,7 +10,7 @@
 - An array in JavaScript is surrounded by brackets, each item surrounded by quotes. 
 - Arrays are stored in variables (var) following the variable name (todos) for referencing later and the value (array) to set to the variable.
 
-### var todos ['item 1', 'item 2', 'item 3']
+### var todos = ['item 1', 'item 2', 'item 3']
 
 
 
