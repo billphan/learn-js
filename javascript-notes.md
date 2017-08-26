@@ -83,6 +83,7 @@ When using a function, the input in the parenthesis are called 'arguments' not '
 		  Put a slice of bread on top;
 		}
 		
+
 - An example function saying "Hi" to a person:
 
 		function sayHiTo(person) {
@@ -92,3 +93,28 @@ When using a function, the input in the parenthesis are called 'arguments' not '
 		sayHiTo('Bill') // Hi, Bill
 
 - The person parameter is set to 'Bill' as the argument.
+
+### Objects
+- Object structure in JavaScript:
+
+		var myComputer = { // myComputer object
+			// properties 
+			// name, colon, value, separated by commas
+			operatingSystem: 'mac',
+			screenSize: '15 inches',
+			purchaseYear: 2011
+		};
+
+## Object & Function Relationship
+
+		var bill = {
+			name: 'Bill',
+			sayName: function() {
+				console.log(this.name); // this refers to this entire object
+			}
+		}
+
+- *'this'* when used as an argument refers to the entire object itself.
+- A *method* is a property that's equal to a function.
+- 'this.name' is calling a method to get the name property. '.name' will access the property 'name'.
+- An anonymous function is a function without a name.
