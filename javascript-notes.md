@@ -121,3 +121,4 @@ When using a function, the input in the parenthesis are called 'arguments' not '
 ### Booleans
 - Booleans are a representation of true or false statements.
 - ! is called a bang operator. Indicates the opposite of whatever comes after it. !true = false & !false = true.
+- != indicates *not* equal to value.
